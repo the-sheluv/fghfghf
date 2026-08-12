@@ -48,7 +48,7 @@ from aiogram.utils.media_group import MediaGroupBuilder
 #  НАСТРОЙКИ — заполните две строки ниже
 # ═══════════════════════════════════════════════════════════════════════════
 
-BOT_TOKEN = "8988477293:AAFo7t89ikg58dalnoSewK2kpsfpsQAXu9Y"   # токен от @BotFather
+BOT_TOKEN = "8988477293:AAFo7t89ikg58dalnoSewK2kpsfpsQA"   # токен от @BotFather
 ADMIN_ID = 7521801228                                           # ваш ID от @userinfobot
 
 # Если админов несколько — допишите ID через запятую: (111, 222, 333)
